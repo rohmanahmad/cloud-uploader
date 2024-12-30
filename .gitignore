@@ -1,0 +1,5 @@
+node_modules
+.env
+assets/google/service-account.json
+yarn.lock
+package-lock.json
